@@ -1,4 +1,4 @@
-## Group project for COMM3180 _Stories from data_ (Fall 2023)
+## Group project for COMM3130 _Computational Text Analysis for Communication Research_ (Fall 2024)
 
 * Replace content in this file to act as the main index page for your project 
 
