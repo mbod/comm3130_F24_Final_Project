@@ -1,4 +1,4 @@
-## Presentations for COMM3180 Group Data Project
+## Presentations for COMM3130 Group Data Project
 
 * This folder should contain the subfolders and files for your project presentations.
 
